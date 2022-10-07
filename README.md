@@ -1,11 +1,13 @@
 # dmcgym
 
+*NOTE: This is a small fork of [dmcgym](https://github.com/ikostrikov/dmcgym) to alleviate some dependency issues with mujoco.*
+
 A fork of [dmc2gym](https://github.com/denisyarats/dmc2gym) refactored to remove parts implemented in other gym wrappers and add support for interactive rendering.
 
 ## Installation
 
 ```bash
-pip install git+https://github.com/ikostrikov/dmcgym.git
+pip install git+https://github.com/timoklein/dmcgym
 ```
 
 ## Usage
