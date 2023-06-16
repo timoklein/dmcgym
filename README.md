@@ -1,6 +1,7 @@
 # dmcgym
 
 *NOTE: This is a small fork of [dmcgym](https://github.com/ikostrikov/dmcgym) to alleviate some dependency issues with mujoco.*
+- TODO: Fix for gymnasium
 
 A fork of [dmc2gym](https://github.com/denisyarats/dmc2gym) refactored to remove parts implemented in other gym wrappers and add support for interactive rendering.
 
